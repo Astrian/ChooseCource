@@ -1,5 +1,6 @@
 import Cocoa
 
+//请先阅读 Readme，地址：https://github.com/Astrian/ChooseCource/
 
 //新建课程类以及其他的类
 class 课程 {
